@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Asimovian-Regular.ttf",
+      "sha1": "a7cf37511a0abb9027da6e4c11ec5bb6b64c9314"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-Regular.ttf",
+      "sha1": "a031c129002aa44c4cd3b8b2c234cf9252476853"
+    },
+    {
+      "path": "src/assets/fonts/StoryScript-Regular.ttf",
+      "sha1": "805c17e9834208f76dcf1e609802021481361fbf"
+    }
+  ]
+}
