@@ -7,9 +7,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        nunito: ['Nunito', 'sans-serif'],
-        story: ["Story Script", "sans-serif"],
-        assimovian: ["Assimovian", "sans-serif"],
+        nunito: ['Nunito-Regular'],
+        story: ["StoryScript-Regular"],
+        assimovian: ["Asimovian-Regular"],
       },
       fontSize: {
         dynamic: "var(--font-size-dynamic)",
